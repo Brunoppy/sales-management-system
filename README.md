@@ -1,4 +1,4 @@
-a# Sales Management System
+# Sales Management System
 
 ## Description
 The Sales Management System is a SQL-based project that tracks sales transactions, customers, and products. This system is designed to integrate with existing inventory and customer management systems, providing insights into sales data and generating useful reports.
